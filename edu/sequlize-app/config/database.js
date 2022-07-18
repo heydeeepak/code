@@ -5,5 +5,4 @@ import { Sequelize } from "sequelize";
     password:'Password123@',
     dialect: 'mysql'
 });
-
 export default db;
